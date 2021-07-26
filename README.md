@@ -1,2 +1,11 @@
-# hayanmind
-make infinite scroll with React
+# infinity scroll을 구현해보자.
+
+## 과제 구현 목록
+
+## 설치 및 시작하는 법
+
+## 프로젝트 구조 설명
+
+## 배포 주소 or 기능별 영상
+
+## 코드 설명 / 과제 후기
