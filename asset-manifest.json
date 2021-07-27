@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hayanmind/static/js/main.c4b98fde.chunk.js",
+    "main.js.map": "/hayanmind/static/js/main.c4b98fde.chunk.js.map",
+    "runtime-main.js": "/hayanmind/static/js/runtime-main.3419f6e3.js",
+    "runtime-main.js.map": "/hayanmind/static/js/runtime-main.3419f6e3.js.map",
+    "static/js/2.4e82c079.chunk.js": "/hayanmind/static/js/2.4e82c079.chunk.js",
+    "static/js/2.4e82c079.chunk.js.map": "/hayanmind/static/js/2.4e82c079.chunk.js.map",
+    "index.html": "/hayanmind/index.html",
+    "static/js/2.4e82c079.chunk.js.LICENSE.txt": "/hayanmind/static/js/2.4e82c079.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3419f6e3.js",
+    "static/js/2.4e82c079.chunk.js",
+    "static/js/main.c4b98fde.chunk.js"
+  ]
+}
