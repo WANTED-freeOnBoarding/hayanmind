@@ -29,13 +29,18 @@ const Container = styled("div")`
   border-radius: 20px;
 `;
 
-const Line = styled("div")``;
+const Line = styled("div")`
+  margin-bottom: 12px;
+`;
 
 const Title = styled("span")`
   font-family: SFProDisplay;
   font-size: 18px;
   line-height: 21px;
   font-weight: bold;
+
+  margin-right: 12px;
+  margin-bottom: 2px;
   /* identical to box height */
 
   color: #212529;

@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef, useCallback } from "react";
 import Comments from "./Comments";
+import styled from "styled-components";
 
 const URL = `https://jsonplaceholder.typicode.com/comments`;
 const LIMIT = 10;
@@ -51,13 +52,19 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <MainContainer>
       {data.map((x) => (
         <Comments key={x.id} id={x.id} email={x.email} comment={x.body} />
       ))}
       <div className="crash" ref={loadRef} />
-    </div>
+    </MainContainer>
   );
 }
+
+const MainContainer = styled("div")`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+`;
 
 export default App;
